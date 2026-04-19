@@ -1,0 +1,3 @@
+https://dog.ceo/api/breed/redbone/images/random/2
+https://dog.ceo/api/breed/redbone/images/random
+https://dog.ceo/api/breed/redbone/images
